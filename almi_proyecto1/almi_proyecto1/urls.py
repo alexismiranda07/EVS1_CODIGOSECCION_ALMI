@@ -19,4 +19,6 @@ from almi_aplicacion2 import views as app2
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('motivacion', app2.video),
+    path('nervios/', app2.display),
+    path('tiempo/', app2.displayDateTime),
 ]
