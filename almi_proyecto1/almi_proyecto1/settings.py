@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'almi_aplicacion1',
+    'almi_aplicacion2',
 ]
 
 MIDDLEWARE = [
